@@ -1,5 +1,5 @@
 numpy==1.18.0
-requests==2.21.0
+requests==2.31.0
 scipy
 mypy
 pytest
